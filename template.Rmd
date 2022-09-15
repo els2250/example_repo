@@ -2,11 +2,7 @@
 title: "Simple document"
 author: Emma Sexton
 date: September 2022
-output: 
-  html_document:
-    toc: TRUE
-    toc_float: TRUE
-    code_folding: hide
+output: github_document
 ---
 
 I'm an R Markdown document! 
